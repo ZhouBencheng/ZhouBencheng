@@ -16,6 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TIME: true
+          SECTION_NAME: waka # optional
           TIME_RANGE: last_30_days # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           SHOW_TITLE: true # optional

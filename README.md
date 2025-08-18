@@ -8,7 +8,6 @@
 
 📊 **This month I spent my time on**
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <div align="left">
@@ -24,23 +23,30 @@
 	<code><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 </div>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhouBencheng&show_icons=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouBencheng&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 <table>
-  <tr>
-    <td valign="middle" width="60%">
-      <img src="img/scrolling-quotes.svg" alt="Scrolling Movie Quotes"/>
-    </td>
-    <td valign="middle">
-      <img src="img/madagascar_penguins.gif" alt="Funny movie line illustration"/>
-    </td>
-  </tr>
+    <tr>
+        <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhouBencheng&show_icons=true&hide_border=true" alt="Anurag's github stats" />
+        </a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouBencheng&layout=compact&hide_border=true" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td valign="middle" width="60%">
+            <img src="img/scrolling-quotes.svg" alt="Scrolling Movie Quotes"/>
+        </td>
+        <td valign="middle">
+            <img src="img/madagascar_penguins.gif" alt="Funny movie line illustration"/>
+        </td>
+    </tr>
 </table>
 
-<div style="margin-top: 15px; text-align: right;">
-  <a href="https://stackoverflow.com/users/25302360/benson">
-    <img alt="ZhouBencheng | StackOverflow" width="21px" src="img/stack-overflow.svg" />
-  </a>
-</div>
+<a href="https://stackoverflow.com/users/25302360/benson">
+  <img align="right" alt="ZhouBencheng | StackOverflow" width="20px" src="img/stack-overflow.svg" />
+</a>
 
