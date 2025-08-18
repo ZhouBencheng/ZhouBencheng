@@ -8,6 +8,13 @@
 
 📊 **This month I spent my time on**
 <!--START_SECTION:waka-->
+
+```txt
+From: 18 July 2025 - To: 17 August 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <div align="left">
