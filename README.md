@@ -11,9 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2025 - To: 17 August 2025
+From: 22 July 2025 - To: 21 August 2025
 
-No activity tracked
+C++           4 hrs 15 mins   █████████▓░░░░░░░░░░░░░░░   38.77 %
+C             2 hrs 41 mins   ██████░░░░░░░░░░░░░░░░░░░   24.49 %
+Markdown      1 hr 32 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+Rust          52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Image (svg)   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
 ```
 
 <!--END_SECTION:waka-->
