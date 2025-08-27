@@ -59,6 +59,10 @@ Image (svg)   52 mins         ██░░░░░░░░░░░░░░�
 </table>
 
 <a href="https://stackoverflow.com/users/25302360/benson">
-  <img align="right" alt="ZhouBencheng | StackOverflow" width="20px" src="img/stack-overflow.svg" />
+  <img align="right" alt="ZhouBencheng | StackOverflow" width="20px" src="img/stack-overflow.svg" style="margin-left: 8px;"/>
+</a>
+
+<a href="https://leetcode.cn/u/ben-a63/">
+  <img align="right" alt="ZhouBencheng | leetcode" width="20px" src="img/leetcode.svg" style="margin-left: 8px;"/>
 </a>
 
