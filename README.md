@@ -66,3 +66,6 @@ Rust          52 mins         ▓░░░░░░░░░░░░░░░�
   <img align="right" alt="ZhouBencheng | leetcode" width="20px" src="img/leetcode.svg" style="margin-left: 8px;"/>
 </a>
 
+<a href="https://www.zhihu.com/people/zzz-14-25-34">
+  <img align="right" alt="ZhouBencheng | zhihu" width="20px" src="img/zhihu.svg" style="margin-left: 8px;"/>
+</a>
