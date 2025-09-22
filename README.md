@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2025 - To: 19 September 2025
+From: 21 August 2025 - To: 20 September 2025
 
-C++           29 hrs 16 mins  ██████████████████▒░░░░░░   73.06 %
-C             5 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-Other         2 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Markdown      57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-TypeScript    27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+C++           25 hrs 55 mins  ██████████████████▒░░░░░░   73.60 %
+C             3 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+Other         3 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Markdown      57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+TypeScript    27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
