@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2025 - To: 17 October 2025
+From: 18 September 2025 - To: 18 October 2025
 
 Other        2 hrs 47 mins   ███████████░░░░░░░░░░░░░░   43.46 %
 Astro        58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
