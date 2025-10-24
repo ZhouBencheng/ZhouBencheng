@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2025 - To: 21 October 2025
+From: 22 September 2025 - To: 22 October 2025
 
-Other        1 hr 56 mins    ████████▓░░░░░░░░░░░░░░░░   34.91 %
-Astro        58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
-HTML         48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-JavaScript   29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-TypeScript   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Other        1 hr            █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
+Astro        58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
+HTML         48 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
+JavaScript   29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+TypeScript   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
 ```
 
 <!--END_SECTION:waka-->
