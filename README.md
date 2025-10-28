@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2025 - To: 25 October 2025
+From: 26 September 2025 - To: 26 October 2025
 
 Astro        58 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
 HTML         48 mins         █████░░░░░░░░░░░░░░░░░░░░   20.63 %
