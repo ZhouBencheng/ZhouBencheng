@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2025 - To: 03 November 2025
+From: 05 October 2025 - To: 04 November 2025
 
-Other        4 hrs 54 mins   ████████████████████▓░░░░   83.29 %
-HTML         45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other        7 hrs 22 mins   ██████████████████████░░░   88.20 %
+HTML         45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
