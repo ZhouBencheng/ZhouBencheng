@@ -11,13 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2025 - To: 07 November 2025
+From: 09 October 2025 - To: 08 November 2025
 
-Other        20 hrs 14 mins  ████████████████████████▓   99.08 %
-Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Other        22 hrs 15 mins  ████████████████████████▓   98.18 %
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 AMPL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Groff        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
