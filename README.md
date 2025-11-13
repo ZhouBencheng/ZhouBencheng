@@ -11,12 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2025 - To: 10 November 2025
+From: 12 October 2025 - To: 11 November 2025
 
-Other        28 hrs 54 mins  ████████████████████████▓   98.22 %
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Other        30 hrs 48 mins  ████████████████████████▓   98.10 %
+Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-AMPL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
