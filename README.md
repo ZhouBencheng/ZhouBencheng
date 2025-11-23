@@ -11,12 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2025 - To: 20 November 2025
+From: 22 October 2025 - To: 21 November 2025
 
-Other         49 hrs 55 mins  ██████████████████████▓░░   90.61 %
-Python        3 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Markdown      43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-CSV           15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Other         52 hrs 31 mins  ██████████████████████▓░░   91.03 %
+Python        3 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Markdown      43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+CSV           15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
