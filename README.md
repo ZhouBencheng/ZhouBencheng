@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2025 - To: 27 November 2025
+From: 29 October 2025 - To: 28 November 2025
 
-Other         71 hrs 43 mins  ███████████████████████░░   91.75 %
-Python        3 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-AMPL          55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Markdown      43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-SSH Config    22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Other         80 hrs 27 mins  ███████████████████████░░   92.56 %
+Python        3 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+AMPL          55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Markdown      44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+SSH Config    22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
