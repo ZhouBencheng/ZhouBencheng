@@ -54,14 +54,14 @@ JavaScript    27 mins         ░░░░░░░░░░░░░░░░�
             </a>
         </td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td valign="middle" width="60%">
             <img src="img/scrolling-quotes.svg" alt="Scrolling Movie Quotes"/>
         </td>
         <td valign="middle">
             <img src="img/madagascar_penguins.gif" alt="Funny movie line illustration"/>
         </td>
-    </tr>
+    </tr> -->
 </table>
 
 <a href="https://stackoverflow.com/users/25302360/benson">
