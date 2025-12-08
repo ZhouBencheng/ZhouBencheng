@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2025 - To: 05 December 2025
+From: 06 November 2025 - To: 06 December 2025
 
-Other         78 hrs 35 mins  ███████████████████████░░   91.81 %
-Python        3 hrs 24 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-AMPL          54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Markdown      52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-JavaScript    27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Other         75 hrs 34 mins  ███████████████████████░░   91.51 %
+Python        3 hrs 24 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+AMPL          54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Markdown      52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+JavaScript    27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
