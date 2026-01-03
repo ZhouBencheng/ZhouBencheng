@@ -11,12 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2025 - To: 31 December 2025
+From: 03 December 2025 - To: 02 January 2026
 
-Other        28 hrs 4 mins   ███████████████████████▒░   93.72 %
-Python       1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Text         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other        28 hrs 43 mins  ███████████████████████▒░   93.90 %
+Python       1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Text         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
