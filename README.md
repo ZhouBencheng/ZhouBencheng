@@ -2,8 +2,8 @@
 
 - 🏫 Undergraduate in Computer Science @USTB
 - 🧩 Currently learning systems programming and AISys
-- ✨ No free lunch though, I want to find a cheaper one.
-- 📮 How to reach me: zhoubencheng2022@163.com
+- ✨ Though there is no such free lunch, I want to find a cheaper one.
+- 📮 How to reach me: zhoubencheng2023@gmail.com
 
 
 
