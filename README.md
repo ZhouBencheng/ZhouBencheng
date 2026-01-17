@@ -45,12 +45,12 @@ SSH Config   0 secs          ░░░░░░░░░░░░░░░░░
     <tr>
         <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhouBencheng&show_icons=true&hide_border=true" alt="ZhouBencheng's github stats" />
+            <img align="center" src="https://github-readme-stats-13sw.vercel.app/api?username=ZhouBencheng&show_icons=true&hide_border=true" alt="ZhouBencheng's github stats" />
         </a>
         </td>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouBencheng&layout=compact&hide_border=true" />
+                <img align="center" src="https://github-readme-stats-13sw.vercel.app/api/top-langs/?username=ZhouBencheng&layout=compact&hide_border=true" />
             </a>
         </td>
     </tr>
