@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2025 - To: 17 January 2026
+From: 19 December 2025 - To: 18 January 2026
 
-Other      38 hrs 58 mins  ██████████████████████▓░░   91.11 %
-Python     3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Text       38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Other      38 hrs 24 mins  ██████████████████████░░░   87.78 %
+Python     4 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+Text       38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
