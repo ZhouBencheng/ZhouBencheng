@@ -1,6 +1,6 @@
 🤓 **About me**
 
-- 🏫 Undergraduate in Computer Science @USTB
+- 🏫 Undergraduate majoring in Computer Science @USTB
 - 🧩 Currently learning systems programming and AISys
 - ✨ Though there is no such free lunch, I want to find a cheaper one.
 - 📮 How to reach me: zhoubencheng2023@gmail.com
@@ -66,6 +66,10 @@ SSH Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 <a href="https://stackoverflow.com/users/25302360/benson">
   <img align="right" alt="ZhouBencheng | StackOverflow" width="20px" src="img/stack-overflow.svg" style="margin-left: 8px;"/>
+</a>
+
+<a href="https://www.ci-lab.net/people/">
+  <img align="right" alt="ZhouBencheng | BUAA CI-Lab" width="20px" src="img/CI.svg" style="margin-left: 8px;"/>
 </a>
 
 <a href="https://leetcode.cn/u/ben-a63/">
