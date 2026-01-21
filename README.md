@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2025 - To: 13 January 2026
+From: 20 December 2025 - To: 19 January 2026
 
-Other        36 hrs 57 mins  ███████████████████████░░   92.03 %
-Python       2 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-Text         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        37 hrs 12 mins  █████████████████████░░░░   84.61 %
+Python       5 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Text         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Markdown     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+SSH Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
@@ -45,12 +45,12 @@ SSH Config   0 secs          ░░░░░░░░░░░░░░░░░
     <tr>
         <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhouBencheng&show_icons=true&hide_border=true" alt="ZhouBencheng's github stats" />
+            <img align="center" src="https://github-readme-stats-13sw.vercel.app/api?username=ZhouBencheng&show_icons=true&hide_border=true" alt="ZhouBencheng's github stats" />
         </a>
         </td>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouBencheng&layout=compact&hide_border=true" />
+                <img align="center" src="https://github-readme-stats-13sw.vercel.app/api/top-langs/?username=ZhouBencheng&layout=compact&hide_border=true" />
             </a>
         </td>
     </tr>
