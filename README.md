@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Benson;Systems+Programming+%7C+AISys;Finding+a+cheaper+lunch+%F0%9F%8D%9C" alt="Typing SVG" />
+  </a>
+</p>
+
 🤓 **About me**
 
 - 🏫 Undergraduate majoring in Computer Science @USTB
@@ -25,18 +31,18 @@ SSH Config   5 mins          ░░░░░░░░░░░░░░░░░
 <br>
 
 <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ssh.png" alt="SSH" title="SSH"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/></code>
+    <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch Linux" title="Arch Linux"/></code>
 </div>
 
 <br>
@@ -54,15 +60,18 @@ SSH Config   5 mins          ░░░░░░░░░░░░░░░░░
             </a>
         </td>
     </tr>
-    <!-- <tr>
-        <td valign="middle" width="60%">
-            <img src="img/scrolling-quotes.svg" alt="Scrolling Movie Quotes"/>
+    <tr>
+        <td colspan="2" align="center">
+            <a href="https://git.io/streak-stats">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhouBencheng&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+            </a>
         </td>
-        <td valign="middle">
-            <img src="img/madagascar_penguins.gif" alt="Funny movie line illustration"/>
-        </td>
-    </tr> -->
+    </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZhouBencheng&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
 <a href="https://stackoverflow.com/users/25302360/benson">
   <img align="right" alt="ZhouBencheng | StackOverflow" width="20px" src="img/stack-overflow.svg" style="margin-left: 8px;"/>
