@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2025 - To: 19 January 2026
+From: 12 January 2026 - To: 11 February 2026
 
-Other        37 hrs 12 mins  █████████████████████░░░░   84.61 %
-Python       5 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-Text         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Markdown     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-SSH Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other              13 hrs 14 mins  █████████████▒░░░░░░░░░░░   53.27 %
+Python             9 hrs 20 mins   █████████▒░░░░░░░░░░░░░░░   37.58 %
+Markdown           1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Git Config         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+SSH Config         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
