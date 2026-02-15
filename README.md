@@ -1,7 +1,17 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Benson;Systems+Programming+%7C+AISys;Finding+a+cheaper+lunch+%F0%9F%8D%9C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D4380D&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Benson;Systems+Programming+%7C+AISys;Finding+a+cheaper+lunch+%F0%9F%8D%9C;%F0%9F%A7%A7+%E6%96%B0%E6%98%A5%E5%BF%AB%E4%B9%90+%C2%B7+Happy+Year+of+the+Horse+%F0%9F%90%B4" alt="Typing SVG" />
   </a>
+</p>
+
+<!-- 🧧 Spring Festival 2026 -->
+<p align="center">
+  <img src="img/lantern.svg" alt="Spring Festival Lanterns" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🧧_新春快乐-万事如意-red?style=for-the-badge&labelColor=d4380d&color=faad14" />
+  <img src="https://img.shields.io/badge/🐴_2026-马年大吉-red?style=for-the-badge&labelColor=d4380d&color=faad14" />
+  <img src="https://img.shields.io/badge/🎆_马到成功-前程似锦-red?style=for-the-badge&labelColor=d4380d&color=faad14" />
 </p>
 
 🤓 **About me**
@@ -51,26 +61,26 @@ SSH Config         19 mins         ▒░░░░░░░░░░░░░░
     <tr>
         <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats-13sw.vercel.app/api?username=ZhouBencheng&show_icons=true&hide_border=true" alt="ZhouBencheng's github stats" />
+            <img align="center" src="https://github-readme-stats-13sw.vercel.app/api?username=ZhouBencheng&show_icons=true&hide_border=true&title_color=d4380d&icon_color=faad14&text_color=434343&bg_color=fff7e6" alt="ZhouBencheng's github stats" />
         </a>
         </td>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img align="center" src="https://github-readme-stats-13sw.vercel.app/api/top-langs/?username=ZhouBencheng&layout=compact&hide_border=true" />
+                <img align="center" src="https://github-readme-stats-13sw.vercel.app/api/top-langs/?username=ZhouBencheng&layout=compact&hide_border=true&title_color=d4380d&text_color=434343&bg_color=fff7e6" />
             </a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
             <a href="https://git.io/streak-stats">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhouBencheng&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhouBencheng&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=D4380D&fire=FAAD14&currStreakLabel=D4380D&sideLabels=D4380D&background=FFF7E6" alt="GitHub Streak" />
             </a>
         </td>
     </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZhouBencheng&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZhouBencheng&hide_border=true&area=true&bg_color=fff7e6&color=d4380d&line=d4380d&point=faad14&area_color=ffccc7" alt="Activity Graph" />
 </p>
 
 <a href="https://stackoverflow.com/users/25302360/benson">
