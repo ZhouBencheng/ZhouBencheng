@@ -99,7 +99,7 @@ SSH Config    19 mins         ▒░░░░░░░░░░░░░░░�
   <img align="right" alt="ZhouBencheng | zhihu" width="20px" src="img/zhihu.svg" style="margin-left: 8px;"/>
 </a>
 
-<a href="https://www.linkedin.com/in/bencheng-zhou-51110b374/">
-  <img align="right" alt="ZhouBencheng | LinkedIn" width="20px" src="img/linkedin-svgrepo-com.svg" style="margin-left: 8px;"/>
+<a href="https://huggingface.co/ZhouBencheng">
+  <img align="right" alt="ZhouBencheng | LinkedIn" width="20px" src="img/huggingface-color.svg" style="margin-left: 8px;"/>
 </a>
 
