@@ -100,6 +100,10 @@ SSH Config    19 mins         ▒░░░░░░░░░░░░░░░�
 </a>
 
 <a href="https://huggingface.co/ZhouBencheng">
-  <img align="right" alt="ZhouBencheng | LinkedIn" width="20px" src="img/huggingface-color.svg" style="margin-left: 8px;"/>
+  <img align="right" alt="ZhouBencheng | Huggingface" width="20px" src="img/huggingface-color.svg" style="margin-left: 8px;"/>
+</a>
+
+<a href="https://benson.cafe">
+  <img align="right" alt="ZhouBencheng | CoffeeLite" width="20px" src="img/coffeelite.svg" style="margin-left: 8px;"/>
 </a>
 
