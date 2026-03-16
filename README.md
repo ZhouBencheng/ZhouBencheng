@@ -1,17 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D4380D&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Benson;Systems+Programming+%7C+AISys;Finding+a+cheaper+lunch+%F0%9F%8D%9C;%F0%9F%A7%A7+%E6%96%B0%E6%98%A5%E5%BF%AB%E4%B9%90+%C2%B7+Happy+Year+of+the+Horse+%F0%9F%90%B4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D4380D&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Benson;Systems+Programming+%7C+AISys;Finding+a+cheaper+lunch+%F0%9F%8D%9C" alt="Typing SVG" />
   </a>
-</p>
-
-<!-- 🧧 Spring Festival 2026 -->
-<p align="center">
-  <img src="img/lantern.svg" alt="Spring Festival Lanterns" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🧧_新春快乐-万事如意-red?style=for-the-badge&labelColor=d4380d&color=faad14" />
-  <img src="https://img.shields.io/badge/🐴_2026-马年大吉-red?style=for-the-badge&labelColor=d4380d&color=faad14" />
-  <img src="https://img.shields.io/badge/🎆_马到成功-前程似锦-red?style=for-the-badge&labelColor=d4380d&color=faad14" />
 </p>
 
 🤓 **About me**
