@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 February 2026 - To: 19 March 2026
+From: 18 February 2026 - To: 20 March 2026
 
-Other        35 hrs 56 mins        ███████████████████▓░░░░░   78.26 %
-Markdown     3 hrs 1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Cuda         2 hrs 34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-TypeScript   1 hr 18 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-C++          55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Other        36 hrs 15 mins        ██████████████████░░░░░░░   71.96 %
+Markdown     4 hrs 10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+TypeScript   3 hrs 18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Cuda         2 hrs 34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+C++          55 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
