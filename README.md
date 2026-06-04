@@ -17,9 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2026 - To: 01 June 2026
+From: 03 May 2026 - To: 02 June 2026
 
-Other          44 hrs 43 mins        ████████▒░░░░░░░░░░░░░░░░   33.07 %
+Other          44 hrs 43 mins        ████████▒░░░░░░░░░░░░░░░░   33.06 %
 Markdown       40 hrs 25 mins        ███████▒░░░░░░░░░░░░░░░░░   29.88 %
 TypeScript     18 hrs 14 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
 Python         13 hrs 13 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
